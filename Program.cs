@@ -24,10 +24,10 @@ namespace hello
 
             file.Close();
             System.Console.WriteLine("There were {1} lines.{0}", counter,line2);
-            // Suspend the screen.  
+             
             System.Console.ReadLine();
 
-
+            // fourth
 
             // third
 
